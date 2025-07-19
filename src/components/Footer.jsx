@@ -7,18 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1">
             <Link to="/" className="flex items-center gap-2">
-              <svg
-                className="h-8 w-8 text-[var(--primary-blue)]"
-                fill="none"
-                viewBox="0 0 48 48"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M24 4C25.7818 14.2173 33.7827 22.2182 44 24C33.7827 25.7818 25.7818 33.7827 24 44C22.2182 33.7827 14.2173 25.7818 4 24C14.2173 22.2182 22.2182 14.2173 24 4Z"
-                  fill="currentColor"
-                ></path>
-              </svg>
-              <h2 className="text-2xl font-bold">EduNas</h2>
+              <h2 className="text-2xl font-bold">Learning Platform</h2>
             </Link>
             <p className="mt-4 text-gray-400">Learn. Teach. Grow.</p>
           </div>
@@ -57,7 +46,7 @@ const Footer = () => {
                   to="/teach"
                   className="text-gray-400 hover:text-[var(--primary-blue)] transition-colors"
                 >
-                  Teach on EduNas
+                  Teach on Our Platform
                 </Link>
               </li>
             </ul>
@@ -139,7 +128,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 border-t border-[var(--light-border)]/20 pt-8 text-center text-gray-400">
-          <p>© 2024 EduNas. All rights reserved.</p>
+          <p>© 2024 Learning Platform. All rights reserved.</p>
         </div>
       </div>
     </footer>

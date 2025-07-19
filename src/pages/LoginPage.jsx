@@ -51,7 +51,7 @@ const LoginPage = () => {
                 </svg>
               </div>
               <h1 className="text-2xl font-bold text-[var(--text-primary)]">
-                EduNas
+                Learning Platform
               </h1>
             </Link>
           </div>

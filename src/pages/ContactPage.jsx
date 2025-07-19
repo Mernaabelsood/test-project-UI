@@ -43,7 +43,7 @@ const ContactPage = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: ["support@edunas.com", "info@edunas.com"],
+      details: ["support@learningplatform.com", "info@learningplatform.com"],
       description: "We typically respond within 24 hours",
     },
     {
@@ -298,7 +298,7 @@ const ContactPage = () => {
               Frequently Asked Questions
             </h2>
             <p className="text-lg text-gray-600">
-              Find answers to common questions about EduNas
+              Find answers to common questions about our platform
             </p>
           </motion.div>
 

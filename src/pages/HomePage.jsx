@@ -109,8 +109,9 @@ const HomePage = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="max-w-3xl mx-auto text-lg md:text-xl font-light mb-8"
           >
-            EduNas is your gateway to a world of knowledge. Explore diverse
-            courses, master new skills, and connect with passionate instructors.
+            Our Learning Platform is your gateway to a world of knowledge.
+            Explore diverse courses, master new skills, and connect with
+            passionate instructors.
           </motion.p>
 
           <motion.div

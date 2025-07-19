@@ -219,7 +219,7 @@ const CommunityPage = () => {
         <div className="container mx-auto px-6">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
             <div>
-              <h1 className="text-3xl font-bold mb-2">EduNas Community</h1>
+              <h1 className="text-3xl font-bold mb-2">Learning Community</h1>
               <p className="text-blue-100 max-w-2xl">
                 Connect with fellow learners, share knowledge, and grow together
                 in our vibrant educational community.

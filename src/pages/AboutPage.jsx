@@ -71,7 +71,7 @@ const AboutPage = () => {
             className="text-center max-w-4xl mx-auto"
           >
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6">
-              About EduNas
+              About Our Learning Platform
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8">
               Empowering learners and educators worldwide through innovative
@@ -105,10 +105,10 @@ const AboutPage = () => {
                 Our Mission
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                At EduNas, we believe that education should be accessible to
-                everyone, everywhere. Our mission is to democratize learning by
-                connecting passionate instructors with eager students across the
-                globe.
+                At our learning platform, we believe that education should be
+                accessible to everyone, everywhere. Our mission is to
+                democratize learning by connecting passionate instructors with
+                eager students across the globe.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 We're committed to providing high-quality, engaging educational
@@ -223,7 +223,7 @@ const AboutPage = () => {
               Our Values
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              The principles that guide everything we do at EduNas
+              The principles that guide everything we do at our platform
             </p>
           </motion.div>
 
@@ -262,7 +262,7 @@ const AboutPage = () => {
               Meet Our Team
             </h2>
             <p className="text-lg text-gray-600">
-              The passionate people behind EduNas
+              The passionate people behind our platform
             </p>
           </motion.div>
 
